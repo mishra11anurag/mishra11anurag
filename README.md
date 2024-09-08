@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anurag Mishra
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Basics of c++
+- 🌱 I’m currently learning Basics of C++ and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mishra11anurag@gmail.com
 - 😄 Pronouns: ...
